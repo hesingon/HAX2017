@@ -417,6 +417,12 @@ body {
 table,
 th,
 td {
-  border: 1px solid black;
+  border: 1px solid gray;
   border-collapse: collapse;
+}
+.theme_color {
+  background: #FF5B14;
+}
+.theme_font_color {
+  color: #FF5B14;
 }
