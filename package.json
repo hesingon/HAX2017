@@ -5,7 +5,6 @@
   "homepage": "http://startbootstrap.com/template-overviews/creative",
   "author": "Start Bootstrap",
   "scripts": {
-    //"start": "node gulpfile.js",
     "postinstall": "gulp"
   },
   "license": {
