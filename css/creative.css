@@ -414,3 +414,9 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
