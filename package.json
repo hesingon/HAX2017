@@ -6,7 +6,7 @@
   "author": "Start Bootstrap",
   "scripts": {
     "start": "node gulpfile.js",
-    "postinstall": "gulp dev"
+    "postinstall": "gulp"
   },
   "license": {
     "type": "MIT",
