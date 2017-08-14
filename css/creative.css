@@ -617,3 +617,8 @@ footer {
   background-color: #e7e7e7;
   background-color: rgba(0, 0, 0, 0.06);
 }
+.gold-sp img {
+  height: 140px;
+  width: 250px;
+  display: center;
+}
