@@ -1,6 +1,6 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Creative](http://startbootstrap.com/template-overviews/creative/)
+# HAX2017 main webpage
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+HAX2017 webpage is built on top of a template from startbootsrap called [Creative](http://startbootstrap.com/template-overviews/creative/), a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
 
@@ -9,11 +9,19 @@ To begin using this template, choose one of the following options to get started
 * Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-creative.git`
 * Fork the repo
 
+## Developer's Guide
+
+To run the server locally, run command `gulp dev`. Details about the ports on which the server is run will be displayed in the terminal.
+
+Main content of webpage is `index.html`.
+
+Go to files under `less` folder to modify the styling of the webpage. 
+
 ## Bugs and Issues
 
 Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-creative/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/creative/).
 
-## Creator
+## Template Creator
 
 Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
