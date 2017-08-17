@@ -1,6 +1,6 @@
 # HAX2017 main webpage
 
-HAX2017 webpage is built on top of a template from startbootsrap called [Creative](http://startbootstrap.com/template-overviews/creative/), a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+HAX2017 is hosted in heroku and deployed under the domain name: `www.hax17.sg`. This webpage is built on top of a template from startbootsrap called [Creative](http://startbootstrap.com/template-overviews/creative/), a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
 ## Getting Started
 
